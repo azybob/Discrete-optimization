@@ -1,2 +1,2 @@
-# test-repo
-This is a test repo
+#Discrete Optimization
+离散优化学历记录
